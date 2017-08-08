@@ -1,0 +1,18 @@
+﻿  compilation object save succeeded; see Z:\IGMProfile\Desktop\Github\Varun_Mhatre2\Varun_Mhatre\Debug\PixelShader.cso
+  compilation object save succeeded; see Z:\IGMProfile\Desktop\Github\Varun_Mhatre2\Varun_Mhatre\Debug\VertexShader.cso
+  SimpleShader.cpp
+  Mesh.cpp
+  Material.cpp
+  Main.cpp
+  Game.cpp
+z:\igmprofile\desktop\github\varun_mhatre2\varun_mhatre\game.cpp(104): warning C4316: 'Camera': object allocated on the heap may not be aligned 16
+z:\igmprofile\desktop\github\varun_mhatre2\varun_mhatre\game.cpp(482): warning C4018: '<': signed/unsigned mismatch
+  Entity.cpp
+  DXCore.cpp
+  Camera.cpp
+z:\igmprofile\desktop\github\varun_mhatre2\varun_mhatre\camera.cpp(76): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+z:\igmprofile\desktop\github\varun_mhatre2\varun_mhatre\camera.cpp(77): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  Generating Code...
+  LINK : Z:\IGMProfile\Desktop\Github\Varun_Mhatre2\Varun_Mhatre\Debug\DX11Starter.exe not found or not built by the last incremental link; performing full link
+  DX11Starter.vcxproj -> Z:\IGMProfile\Desktop\Github\Varun_Mhatre2\Varun_Mhatre\Debug\DX11Starter.exe
+  DX11Starter.vcxproj -> Z:\IGMProfile\Desktop\Github\Varun_Mhatre2\Varun_Mhatre\Debug\DX11Starter.pdb (Full PDB)
