@@ -1,0 +1,8 @@
+﻿  Game.cpp
+c:\users\varunjmhatre\desktop\sem 2.5\aggp\varun_mhatre\game.cpp(164): warning C4316: 'Camera': object allocated on the heap may not be aligned 16
+c:\users\varunjmhatre\desktop\sem 2.5\aggp\varun_mhatre\game.cpp(422): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\varunjmhatre\desktop\sem 2.5\aggp\varun_mhatre\game.cpp(423): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\varunjmhatre\desktop\sem 2.5\aggp\varun_mhatre\game.cpp(424): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\varunjmhatre\desktop\sem 2.5\aggp\varun_mhatre\game.cpp(425): warning C4305: 'argument': truncation from 'double' to 'float'
+  DX11Starter.vcxproj -> C:\Users\varunjmhatre\Desktop\Sem 2.5\AGGP\Varun_Mhatre\Debug\DX11Starter.exe
+  DX11Starter.vcxproj -> C:\Users\varunjmhatre\Desktop\Sem 2.5\AGGP\Varun_Mhatre\Debug\DX11Starter.pdb (Full PDB)
