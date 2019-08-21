@@ -1,8 +1,0 @@
-﻿  Main.cpp
-c:\users\varunjmhatre\desktop\game physics\gjk3d\gjk-3d\main.cpp(809): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\varunjmhatre\desktop\game physics\gjk3d\gjk-3d\main.cpp(836): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\varunjmhatre\desktop\game physics\gjk3d\gjk-3d\main.cpp(992): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
-c:\users\varunjmhatre\desktop\game physics\gjk3d\gjk-3d\main.cpp(993): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
-c:\users\varunjmhatre\desktop\game physics\gjk3d\gjk-3d\main.cpp(994): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
-  GJK-3D.vcxproj -> C:\Users\varunjmhatre\Desktop\Game Physics\GJK3D\Debug\GJK-3D.exe
-  GJK-3D.vcxproj -> C:\Users\varunjmhatre\Desktop\Game Physics\GJK3D\Debug\GJK-3D.pdb (Full PDB)
